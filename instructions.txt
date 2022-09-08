@@ -1,0 +1,12 @@
+# This project is built with Vue 3 and Pinia. 
+To run the app locally, you need to have Node installed as it requires a NodeJS static file server.
+
+Step 1: 
+After pulling the project files from Git repository, cd into its root directory.
+
+Step 2:
+Run the folloing command "npm install" this will install node modules.
+
+Step 3: 
+run "npm run serve", this will start the Node server and you will be able to
+run the app on local server (most likely http://localhost:3000).
